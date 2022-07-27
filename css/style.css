@@ -1,5 +1,11 @@
-.font-color{
-    color: #3944F7;
+/* fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+/* custom css tag */
+
+body{
+    font-family: 'Poppins', sans-serif;
 }
 
 .margin-top{
