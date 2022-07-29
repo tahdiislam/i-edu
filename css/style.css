@@ -36,12 +36,13 @@ body{
 
 @media screen and (max-width:576px) {
     .sm-text-hide{
+        font-size: 0.8em;
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
     }
 
     .font-size{
-        font-size: 1.5em;
+        font-size: 1.1em;
     }
 }
